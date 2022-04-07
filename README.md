@@ -38,6 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-uncharted&langs_count=4)
 
 
-
+## My contribution History
 ![snake gif](https://github.com/manny-uncharted/snake-gen/blob/output/github-contribution-grid-snake.gif)
 
