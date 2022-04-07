@@ -7,7 +7,7 @@
 
 😎 I also build bots for different platforms and purposes.
 
-🌱 I’m currently learning Django, Deep Learning, Python and Rust on the sidelines
+🌱 I’m currently learning Django, Deep Learning, Python and Rust at my spare time
 
 👯 I’m looking to collaborate on python based projects
 
