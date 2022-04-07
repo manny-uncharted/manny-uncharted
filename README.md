@@ -37,6 +37,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manny-uncharted&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-uncharted&langs_count=4)
 
+### My wakatime stats
+[![wakatime](https://wakatime.com/badge/user/80545e3d-81e7-46bd-b7a1-95e96f24de5b.svg)](https://wakatime.com/@80545e3d-81e7-46bd-b7a1-95e96f24de5b)
+
 
 ## My contribution History
 ![snake gif](https://github.com/manny-uncharted/snake-gen/blob/output/github-contribution-grid-snake.gif)
