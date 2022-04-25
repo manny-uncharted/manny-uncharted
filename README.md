@@ -15,7 +15,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/manny-uncharted
 
-<!-- 📝 I regularly write articles on https://dev.to/opeolluwa -->
+📝 I write articles on https://dev.to/mannyuncharted/ and https://hashnode.com/@manny-uncharted
 
 💬 Ask me about Python and Machine Learning
 
