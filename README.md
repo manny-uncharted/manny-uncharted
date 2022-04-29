@@ -30,6 +30,8 @@
 
 ### My wakatime stats
 [![wakatime](https://wakatime.com/badge/user/80545e3d-81e7-46bd-b7a1-95e96f24de5b.svg)](https://wakatime.com/@80545e3d-81e7-46bd-b7a1-95e96f24de5b)
+### Github trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=manny-uncharted)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## My Github Stats
