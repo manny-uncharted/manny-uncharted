@@ -1,7 +1,7 @@
 
 ## **Hi there ✌ I'm manny-uncharted**
 
-### I'm a python developer and a Machine Learning Engineer.
+### I'm a python developer.
 
 🔭 I’m currently working on a creating a face-oauth system
 
