@@ -3,15 +3,15 @@
 
 ### I'm a python developer.
 
-🔭 I’m currently working on a creating a face-oauth system
+<!-- 🔭 I’m currently working on a creating a face-oauth system -->
 
 😎 I also build bots for different platforms and purposes.
 
-🌱 I’m currently learning Django, Deep Learning, Python and Rust at my spare time
+🌱 I’m currently learning Django, Deep Learning, Python.
 
 👯 I’m looking to collaborate on python based projects
 
-🤝 I’m looking for help with Building a two way encryption algorithm for the face-oauth system
+<!-- 🤝 I’m looking for help with Building a two way encryption algorithm for the face-oauth system -->
 
 👨‍💻 All of my projects are available at https://github.com/manny-uncharted
 
