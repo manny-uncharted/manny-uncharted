@@ -1,11 +1,13 @@
 
 ## **Hi there ✌ I'm manny-uncharted**
 
-### I'm a python developer.
+I'm a developer with passion for exploring the intersection between technology and human service. How technology can best solve problems I see around me.
 
-<!-- 🔭 I’m currently working on a creating a face-oauth system -->
+Asides from coding in my spare time you find me cooking, or making research about advancements in the field of engineering, AI and Agriculture.
 
-With a passion for building projects
+
+My goal is to see that new technologies are best used to solve problems faced by the immediate people around me.
+
 
 👨‍💻 All of my projects are available at https://github.com/manny-uncharted
 
