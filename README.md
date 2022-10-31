@@ -17,6 +17,8 @@ My goal is to see that new technologies are best used to solve problems faced by
 
 📫 How to reach me:  omoebun52@gmail.com
 
+💼 My Portfolio: https://manny-uncharted.github.io/
+
 😄 Pronouns: him/his
 
 ⚡ Fun fact: I love basketball, tennis and chess
