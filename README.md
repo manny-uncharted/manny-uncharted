@@ -1,46 +1,34 @@
+## Hi there! 👋 I'm Emmanuel Akanji - @manny-uncharted
 
-## **Hi there ✌ I'm manny-uncharted**
+Driven by a profound passion for merging technology with human needs, I dedicate my expertise to developing solutions that address real-world challenges. My journey in software engineering is fueled by curiosity and a commitment to using AI and machine learning to enhance lives, particularly in agriculture and community services.
 
-I'm a developer with passion for exploring the intersection between technology and human service. How technology can best solve problems I see around me.
+When I'm not coding, you might catch me experimenting in the kitchen, diving into the latest engineering breakthroughs, or contributing to the future of AI and agriculture.
 
-Asides from coding in my spare time you find me cooking, or making research about advancements in the field of engineering, AI and Agriculture.
+I'm on a mission to leverage emerging technologies for the betterment of my community and beyond.
 
+👨‍💻 Explore my projects: [manny-uncharted](https://github.com/manny-uncharted)
 
-My goal is to see that new technologies are best used to solve problems faced by the immediate people around me.
+📝 I share insights on [Dev.to](https://dev.to/mannyuncharted/) and [Hashnode](https://hashnode.com/@manny-uncharted)
 
+💬 Python and Machine Learning are my forte - feel free to ask me anything!
 
-👨‍💻 All of my projects are available at https://github.com/manny-uncharted
+📫 Reach out via email: omoebun52@gmail.com
 
-📝 I write articles on https://dev.to/mannyuncharted/ and https://hashnode.com/@manny-uncharted
+💼 Check out my portfolio: [manny-uncharted.github.io](https://manny-uncharted.github.io/)
 
-💬 Ask me about Python and Machine Learning
+😄 Pronouns: He/Him
 
-📫 How to reach me:  omoebun52@gmail.com
+⚡ Fun fact: I'm an avid fan of basketball, tennis, and chess. Combining music with coding is my recipe for bliss. 😊
 
-💼 My Portfolio: https://manny-uncharted.github.io/
-
-😄 Pronouns: him/his
-
-⚡ Fun fact: I love basketball, tennis and chess
-
-✌ Music and Coding pure bliss😊
-
-
-### My wakatime stats
+### Dive into my coding activity
 [![wakatime](https://wakatime.com/badge/user/80545e3d-81e7-46bd-b7a1-95e96f24de5b.svg)](https://wakatime.com/@80545e3d-81e7-46bd-b7a1-95e96f24de5b)
-### Github trophies
+
+### Behold my GitHub achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=manny-uncharted)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## My Github Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&show_icons=true) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manny-uncharted&count_private=true&hide=contribs,prs&show_icons=true) -->
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manny_uncharted) -->
+## My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manny-uncharted&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manny-uncharted&langs_count=4)
 
-
-
-## My contribution History
+## My Contribution History
 ![snake gif](https://github.com/manny-uncharted/snake-gen/blob/output/github-contribution-grid-snake.gif)
-
